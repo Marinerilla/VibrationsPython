@@ -1,1 +1,1 @@
-# Vibration-analysis
+# Vibration Analysis
